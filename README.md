@@ -1,3 +1,6 @@
+# ⚠️ Archived ⚠️
+This was made for a very old version of s&box is likely broken due to several of s&box's major updates.
+# Original README Follows
 # sbox-icon-browser
  MaterialIcons browser as a Dock widget for the s&box editor.
 
